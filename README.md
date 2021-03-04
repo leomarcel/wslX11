@@ -2,7 +2,7 @@
 
 1. Make sure you have the wsl to install and X11 activate in /etc/ssh/sshd_config
 2. Install Xming (https://sourceforge.net/projects/xming/) and run it
-3. `https://github.com/leomarcel/wslX11` at the user's root (C:\Users\YourUsername)
+3. `git clone https://github.com/leomarcel/wslX11` at the user's root (C:\Users\YourUsername)
 4. open a cmd, `cd wslX11` and execute the command `wslx`.
 
 
