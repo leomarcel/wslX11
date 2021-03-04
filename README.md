@@ -1,9 +1,9 @@
 ## Execute X11 (graphical application) via wsl
 
 1. Make sure you have the wsl to install and X11 activate in /etc/ssh/sshd_config
-2. Install Xming (https://sourceforge.net/projects/xming/)
-3. `git clone` at the user's root (C:\Users\YourUsername)
-4. open a cmd and execute the command `wslx`.
+2. Install Xming (https://sourceforge.net/projects/xming/) and run it
+3. `https://github.com/leomarcel/wslX11` at the user's root (C:\Users\YourUsername)
+4. open a cmd, `cd wslX11` and execute the command `wslx`.
 
 
 **Explanation :**
